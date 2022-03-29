@@ -7,7 +7,7 @@
   #
   
   #### Hi there 👋
-  #### I’m currently learning Spring 💻
+  #### I’m currently learning Back-End 💻
   <br>
   
   ---

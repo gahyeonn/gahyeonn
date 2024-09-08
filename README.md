@@ -1,48 +1,23 @@
-<div align="center">
-  
-<a><img align="right" src="https://github-readme-stats.vercel.app/api?username=gahyeonn&show_icons=true&theme=buefy"/></a>
-  
-  ### 🌼 Ga Hyeon 🌼
-  
-  #
-  
-  #### Hi there 👋
-  #### I’m currently learning Back-End 💻
-  <br>
-  
-  ---
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeonn&theme=buefy&layout=compact&langs_count=10" width="400"/>
-
-<div align=center> <h3> 📚 Stack 📚 </h3></div>
-
-<div align=center> 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
-  <br>
-
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=black">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijIDEA&logoColor=white"> 
-  <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=DataGrip&logoColor=white">
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=VisualStudio&logoColor=white">
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
-  <br>
+## 📌 Back-End Developer
+<div>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=Spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"> 
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 </div>
- 
-</div>
+
+## 💻Projects
+- 친구와 일정 조율 하이브리드 애플리케이션 - Manyaak
+- 위시리스트 달성을 위한 저축 계획 웹 서비스 - Moas
+- QR코드 인식을 활용한 웹 게임 서비스 - Stardust
+- 유기 동물 공고 조회 웹 서비스 - Findog
+- 대학별 멘토, 멘티 매칭 안드로이드 애플리케이션 - Mentos
+
+  
+## 👩‍💻Experiences
+- Google Developer Student Clubs (GDSC) 3기 `2022.10 - 2023.09`
+- 소프트웨어 엔지니어링 부트캠프 (백엔드) `2022.08 - 2023.02`
+- 삼성 SDS 하계 대학생 알고리즘 특강 `2022.07`
+- University MakeUs Challenge (UMC) 1, 2기 `2021.09 - 2022.08`
